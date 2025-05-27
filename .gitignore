@@ -12,3 +12,4 @@ raw_data
 recovery.py
 .python-version
 .python-info
+__pycache__
